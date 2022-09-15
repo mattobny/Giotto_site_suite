@@ -12,7 +12,7 @@ output:
 
 Updated `9/15/2022`. *Giotto* version `2.0.0.998`.
 
-Please check the version you are using to get the same results.
+Please check the version in use to get the same results.
 
 Clustering, 3D visualization, and cell type identification of clusters using marker genes will be explored in this tutorial.
 
